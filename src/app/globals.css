@@ -1,0 +1,15 @@
+
+body{
+    margin: 0px;
+    overflow: hidden; /* Hide scrollbars */
+    cursor: wait;
+    background-color: #141516;
+    color: white;
+}
+
+@font-face {
+    font-family: 'customFont';
+    src: url('/font/Bastliga.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
